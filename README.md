@@ -4,17 +4,17 @@ Before using, please note that it is not possible to include a complete database
 
 It's a hobby project, developed within a week time. I don't program in JS/TS, so there is quite a mess in the code. The language in the program is Polish, as the whole thing was supposed to be a gift for an elderly person who doesn't speak English. Just a few words in the whole application to change.
 
---Install
+###Install
 npm install
 
---Debug
+###Debug
 npm run start-remote
 
---Build
+###Build
 npm run build
 
 
---Usage
+###Usage
 Tap definition to enlarge it.
 Tap several times on answer field to reveal char.
 
